@@ -1,0 +1,15 @@
+from pyscript import document, display
+
+def check_membership():
+
+    G7 = ['AALIYAH PANGILINAN', 'ARYANA VARGAS', 'BIANCA LEDRES', 'CARLOS BORROMEO', 'CHEREE MENDOZA']
+    G8 = ['DANIELLE SANDOVAL', 'ELISE RAMOS', 'ERAN DIAZ', 'FAITH CONCEPCION']
+    G9 = ['FRANCIS FERNANDEZ', 'GERTHY BAUSA', 'JACOB SHERBURN', 'JARVIS JOVEN']
+    G10 = ['JERICHO MAGSALIN', 'JILLIANE TECH', 'JOAQUIN CASTOR', 'Louie Lee']
+
+    full_list = G7 + G8 + G9 + G10
+
+    
+
+
+   
